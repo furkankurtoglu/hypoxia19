@@ -216,7 +216,7 @@ Parameter<T>::Parameter()
 	pT = new T; 
 	value = *pT; 
 */
-	value = 1-1; 
+	//value = 1-1; 
 	return; 
 }
 
